@@ -18,10 +18,12 @@ body{
 h1{
   text-align: center;
   opacity: 100%;
+      font-family: 'Mali', cursive;
+      font-size: 50px;
 }
 h2{
   text-align: center;
-
+font-family: 'Merriweather', serif;
 }
 .quote1, .topheading{
   color: ghostwhite;
@@ -33,7 +35,7 @@ h2{
 .eventcontent{
 margin-bottom: 100px;
 padding-bottom: 100px;
-}
+    font-family: 'Roboto', sans-serif;}
 .eventdate{
   width: 100px;
   height:7px;
@@ -59,10 +61,11 @@ padding-bottom: 100px;
 }
 .tableinfo {
 border-collapse: collapse;
-}
+    font-family: 'Roboto', sans-serif;}
 .nutshell{
   text-align: center;
   font-size: 26px;
+      font-family: 'Merriweather', serif;
 }
 .Steve_Jobs_Photo{
   height:200px;
@@ -93,7 +96,7 @@ height: auto;
 margin: 0;
 background-color: #100b2b;
 text-align: center;
-}
+    font-family: 'Roboto', sans-serif;}
 #quote{
   padding: 10px;
   color: ghostwhite;
