@@ -1,0 +1,109 @@
+body{
+    background-color: #EEEEEE;
+    margin-bottom: 0;
+}
+.container{
+  background-color: #EEEEEE;
+  margin: 10px;
+}
+.header{
+  background-color: white;
+  background-image: url(../images/Steve_jobs_cover_photo.jpg);
+  min-height: 700px;
+  width: 100%;
+  background-size: cover;
+  border-radius: 10px;
+  overflow: hidden;
+}
+h1{
+  text-align: center;
+  opacity: 100%;
+}
+h2{
+  text-align: center;
+
+}
+.quote1, .topheading{
+  color: ghostwhite;
+}
+.main{
+  margin: 10px;
+
+}
+.eventcontent{
+margin-bottom: 100px;
+padding-bottom: 100px;
+}
+.eventdate{
+  width: 100px;
+  height:7px;
+  text-align: center;
+  line-height: 26px;
+  float: left;
+  font-size: 14px;
+  border-top: 2px solid #ccc;
+  margin: -1px 0 0 0;
+  padding: 4px 5px 6px 0;
+  clear: left;
+  font-weight: bold;
+}
+.event{
+  width: 50%;
+  background: #f9f9f9;
+  float: left;
+  margin: 0;
+  padding: 8px 12px 8px 8px;
+  border-top: 1px solid #ccc;
+  clear: ;
+  font-size: 14px;
+}
+.tableinfo {
+border-collapse: collapse;
+}
+.nutshell{
+  text-align: center;
+  font-size: 26px;
+}
+.Steve_Jobs_Photo{
+  height:200px;
+  width: 300px;
+  align-items: center;
+}
+th{
+  background-color: inherit;
+  text-align: center;
+  line-height: 26px;
+  margin: 5px:
+  padding: 5px;
+  vertical-align: top;
+  width: 100px;
+}
+td{
+  background-color: inherit;
+  text-align: left;
+  line-height: 26px;
+  margin: 5px;
+  padding: 5px;
+  border-top: 2px solid #ccc;
+}
+#footer {
+clear: both;
+width: 100%;
+height: auto;
+margin: 0;
+background-color: #100b2b;
+text-align: center;
+}
+#quote{
+  padding: 10px;
+  color: ghostwhite;
+}
+a {
+    color:dodgerblue;
+    text-decoration:none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
